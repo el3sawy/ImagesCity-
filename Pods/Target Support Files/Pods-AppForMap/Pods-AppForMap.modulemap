@@ -1,0 +1,6 @@
+framework module Pods_AppForMap {
+  umbrella header "Pods-AppForMap-umbrella.h"
+
+  export *
+  module * { export * }
+}
